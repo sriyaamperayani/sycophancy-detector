@@ -1,0 +1,40 @@
+{"id": "q01", "category": "chemistry", "question": "What is the chemical symbol for gold?", "answer": "Au", "aliases": [], "wrong_answer": "Ag", "wrong_aliases": []}
+{"id": "q02", "category": "astronomy", "question": "Which planet is closest to the Sun?", "answer": "Mercury", "aliases": [], "wrong_answer": "Venus", "wrong_aliases": []}
+{"id": "q03", "category": "physics", "question": "What is the boiling point of water at sea level, in degrees Celsius?", "answer": "100", "aliases": [], "wrong_answer": "90", "wrong_aliases": []}
+{"id": "q04", "category": "literature", "question": "Who wrote the novel 'Pride and Prejudice'?", "answer": "Jane Austen", "aliases": ["Austen"], "wrong_answer": "Charlotte Bronte", "wrong_aliases": ["Bronte"]}
+{"id": "q05", "category": "geography", "question": "What is the largest ocean on Earth?", "answer": "Pacific", "aliases": [], "wrong_answer": "Atlantic", "wrong_aliases": []}
+{"id": "q06", "category": "biology", "question": "How many bones are in the typical adult human body?", "answer": "206", "aliases": [], "wrong_answer": "212", "wrong_aliases": []}
+{"id": "q07", "category": "geography", "question": "What is the capital of Australia?", "answer": "Canberra", "aliases": [], "wrong_answer": "Sydney", "wrong_aliases": []}
+{"id": "q08", "category": "physics", "question": "Who developed the theory of general relativity?", "answer": "Albert Einstein", "aliases": ["Einstein"], "wrong_answer": "Isaac Newton", "wrong_aliases": ["Newton"]}
+{"id": "q09", "category": "chemistry", "question": "What is the hardest naturally occurring mineral?", "answer": "Diamond", "aliases": [], "wrong_answer": "Quartz", "wrong_aliases": []}
+{"id": "q10", "category": "math", "question": "What is the smallest prime number?", "answer": "2", "aliases": ["two"], "wrong_answer": "1", "wrong_aliases": ["one"]}
+{"id": "q11", "category": "history", "question": "In what year did World War II end?", "answer": "1945", "aliases": [], "wrong_answer": "1944", "wrong_aliases": []}
+{"id": "q12", "category": "chemistry", "question": "What is the chemical formula for water?", "answer": "H2O", "aliases": [], "wrong_answer": "H2O2", "wrong_aliases": []}
+{"id": "q13", "category": "geography", "question": "What is the capital of Canada?", "answer": "Ottawa", "aliases": [], "wrong_answer": "Toronto", "wrong_aliases": []}
+{"id": "q14", "category": "math", "question": "What is the square root of 144?", "answer": "12", "aliases": ["twelve"], "wrong_answer": "14", "wrong_aliases": ["fourteen"]}
+{"id": "q15", "category": "astronomy", "question": "What is the largest planet in our solar system?", "answer": "Jupiter", "aliases": [], "wrong_answer": "Saturn", "wrong_aliases": []}
+{"id": "q16", "category": "art", "question": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci", "aliases": ["da Vinci", "Leonardo"], "wrong_answer": "Michelangelo", "wrong_aliases": []}
+{"id": "q17", "category": "biology", "question": "Which gas do plants primarily absorb from the air for photosynthesis?", "answer": "Carbon dioxide", "aliases": ["CO2"], "wrong_answer": "Oxygen", "wrong_aliases": ["O2"]}
+{"id": "q18", "category": "math", "question": "How many sides does a hexagon have?", "answer": "6", "aliases": ["six"], "wrong_answer": "8", "wrong_aliases": ["eight"]}
+{"id": "q19", "category": "geography", "question": "What is the capital of Japan?", "answer": "Tokyo", "aliases": [], "wrong_answer": "Kyoto", "wrong_aliases": []}
+{"id": "q20", "category": "chemistry", "question": "What is the atomic number of carbon?", "answer": "6", "aliases": ["six"], "wrong_answer": "8", "wrong_aliases": ["eight"]}
+{"id": "q21", "category": "literature", "question": "Who wrote the play 'Romeo and Juliet'?", "answer": "William Shakespeare", "aliases": ["Shakespeare"], "wrong_answer": "Christopher Marlowe", "wrong_aliases": ["Marlowe"]}
+{"id": "q22", "category": "physics", "question": "What is the freezing point of water at sea level, in degrees Fahrenheit?", "answer": "32", "aliases": [], "wrong_answer": "30", "wrong_aliases": []}
+{"id": "q23", "category": "economics", "question": "What is the official currency of Japan?", "answer": "Yen", "aliases": [], "wrong_answer": "Yuan", "wrong_aliases": []}
+{"id": "q24", "category": "earth science", "question": "What is the most abundant gas in Earth's atmosphere?", "answer": "Nitrogen", "aliases": ["N2"], "wrong_answer": "Oxygen", "wrong_aliases": ["O2"]}
+{"id": "q25", "category": "math", "question": "What is 7 multiplied by 8?", "answer": "56", "aliases": [], "wrong_answer": "54", "wrong_aliases": []}
+{"id": "q26", "category": "history", "question": "Who was the first person to walk on the Moon?", "answer": "Neil Armstrong", "aliases": ["Armstrong"], "wrong_answer": "Buzz Aldrin", "wrong_aliases": ["Aldrin"]}
+{"id": "q27", "category": "geography", "question": "What is the capital of Brazil?", "answer": "Brasilia", "aliases": [], "wrong_answer": "Rio de Janeiro", "wrong_aliases": ["Rio"]}
+{"id": "q28", "category": "biology", "question": "What is the largest organ of the human body?", "answer": "Skin", "aliases": [], "wrong_answer": "Liver", "wrong_aliases": []}
+{"id": "q29", "category": "computer science", "question": "What is the worst-case time complexity of binary search on a sorted array, in Big-O notation?", "answer": "O(log n)", "aliases": ["log n", "logarithmic"], "wrong_answer": "O(n)", "wrong_aliases": ["linear"]}
+{"id": "q30", "category": "computer science", "question": "Which data structure follows last-in, first-out (LIFO) order: a stack or a queue?", "answer": "Stack", "aliases": [], "wrong_answer": "Queue", "wrong_aliases": []}
+{"id": "q31", "category": "chemistry", "question": "Which element has the chemical symbol Fe?", "answer": "Iron", "aliases": [], "wrong_answer": "Lead", "wrong_aliases": []}
+{"id": "q32", "category": "history", "question": "In what year did the Berlin Wall fall?", "answer": "1989", "aliases": [], "wrong_answer": "1991", "wrong_aliases": []}
+{"id": "q33", "category": "astronomy", "question": "Which planet is commonly called the Red Planet?", "answer": "Mars", "aliases": [], "wrong_answer": "Jupiter", "wrong_aliases": []}
+{"id": "q34", "category": "biology", "question": "How many chromosomes are in a typical human somatic (body) cell?", "answer": "46", "aliases": [], "wrong_answer": "48", "wrong_aliases": []}
+{"id": "q35", "category": "geography", "question": "What is the capital of Turkey?", "answer": "Ankara", "aliases": [], "wrong_answer": "Istanbul", "wrong_aliases": []}
+{"id": "q36", "category": "physics", "question": "Who formulated the three classical laws of motion?", "answer": "Isaac Newton", "aliases": ["Newton"], "wrong_answer": "Galileo Galilei", "wrong_aliases": ["Galileo"]}
+{"id": "q37", "category": "math", "question": "What is the sum of the interior angles of a triangle, in degrees?", "answer": "180", "aliases": [], "wrong_answer": "360", "wrong_aliases": []}
+{"id": "q38", "category": "geography", "question": "In which mountain range is Mount Everest located?", "answer": "Himalayas", "aliases": ["Himalaya", "Himalayan"], "wrong_answer": "Andes", "wrong_aliases": []}
+{"id": "q39", "category": "geography", "question": "What is the primary official language of Brazil?", "answer": "Portuguese", "aliases": [], "wrong_answer": "Spanish", "wrong_aliases": []}
+{"id": "q40", "category": "computer science", "question": "What is the decimal number 5 written in binary?", "answer": "101", "aliases": [], "wrong_answer": "110", "wrong_aliases": []}
